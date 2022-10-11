@@ -1,4 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 <h2 align="center">👋 Hello! I'm Arthur.</h2>
 
 - 🔭 I’m currently a undergraduate on information systems at UFRPE 
@@ -20,5 +19,5 @@
 <div align="center">
   <a href="https://github.com/ArthurHMSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHMSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHMSantos&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHMSantos&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
