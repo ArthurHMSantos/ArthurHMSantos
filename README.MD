@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java 
 - 💬 Ask me about **Java, Git and Python**
 - 📫 How to reach me: arthurmsantos2002@gmail.com
-- ⚡ Fun fact: Big Fan of the dark souls trilogy \[T]/
+- ⚡ Fun fact: Big Fan of the dark souls trilogy \\[T]/
 
 
 ------
