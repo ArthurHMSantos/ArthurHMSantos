@@ -1,27 +1,32 @@
-<h2 align="center">👋 Hello! I'm Arthur.</h2>
+<h1 align="center">Hi 👋, I'm Arthur Henrique</h1>
+<h3 align="center">A passionate developer from Brasil</h3>
 
-- 🔭 I’m currently a undergraduate on information systems at UFRPE 
-- 🌱 I’m currently learning Java 
+- 🔭 I’m currently **a undergraduate on information systems at UFRPE**
+
+- 🌱 I’m currently learning **Java**
+
 - 💬 Ask me about **Java, Git and Python**
-- 📫 How to reach me: arthurmsantos2002@gmail.com
-- ⚡ Fun fact: Big Fan of the dark souls trilogy \\[T]/
 
+- 📫 How to reach me **arthurmsantos2002@gmail.com**
 
-------
+- ⚡ Fun fact **Big Fan of the dark souls trilogy \[T]/**
 
-🔗 &nbsp;**Contact Me**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arthur-henrique-martins-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arth.mrtns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="mailto:arthurmsantos2002@gmail.com">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Arthur's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
- -------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </
+  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arthurhmsantos" /></p>
 
-<div align="center">
-  <a href="https://github.com/ArthurHMSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHMSantos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHMSantos&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en" alt="arthurhmsantos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhmsantos&theme=default" alt="arthurhmsantos" /></p>
