@@ -9,11 +9,14 @@
 
 ------
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Contact Me**
 <p align="left">
 <a href="https://www.linkedin.com/in/arthur-henrique-martins-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arth.mrtns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="">
+<a href="mailto:arthurmsantos2002@gmail.com">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Arthur's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
  -------
 
