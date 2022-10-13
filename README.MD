@@ -26,7 +26,7 @@
 ------ 
 
 <div align="center">
-  <a href="https://github.com/JVitorCarv%22%3E
+ <a href="https://github.com/ArthurHMSantos%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHMSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true%22/%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHMSantos&layout=compact&langs_count=7&theme=react%22/%3E
 </div>
