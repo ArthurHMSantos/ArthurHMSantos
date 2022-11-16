@@ -27,7 +27,6 @@
 
 <div align="center">
 <img height=180 src="https://github-readme-stats.vercel.app/api?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en" alt="arthurhmsantos" />
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arthurhmsantos" />
 </div>
 
 -----
