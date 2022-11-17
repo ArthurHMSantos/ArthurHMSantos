@@ -24,4 +24,6 @@
 
 -------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en" alt="arthurhmsantos" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhmsantos&theme=tokyonight&locale=en" alt="arthurhmsantos" /></p>
+<div width="20px">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en" alt="arthurhmsantos" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhmsantos&theme=tokyonight&locale=en" alt="arthurhmsantos" />
+<div/>
