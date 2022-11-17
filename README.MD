@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Henrique</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-- - 🔭 I’m currently **a undergraduate on information systems at UFRPE**
+- 🔭 I’m currently **a undergraduate on information systems at UFRPE**
 
 - 🌱 I’m currently learning **Java**
 
