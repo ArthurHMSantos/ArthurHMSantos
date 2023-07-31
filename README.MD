@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Java, Git and Python**
+- 💬 Ask me about **Java, Kotlin and Python**
 
 - 📫 How to reach me **arthurmsantos2002@gmail.com**
 
