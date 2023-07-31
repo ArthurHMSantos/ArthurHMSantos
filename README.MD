@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **a undergraduate on information systems at UFRPE**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Java, Git and Python**
 
