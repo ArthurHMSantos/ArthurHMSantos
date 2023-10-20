@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently **a undergraduate on information systems at UFRPE**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **Java, Kotlin and Python**
+- 💬 Ask me about **Kotlin, React and Django**
 
 - 📫 How to reach me **arthurmsantos2002@gmail.com**
 
-- ⚡ Fun fact **Big Fan of the dark souls trilogy \[T]/**
+- ⚡ Fun fact **Big Fan of Hollow Knight \[T]/**
 
 -------
 
