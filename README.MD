@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently **a undergraduate on information systems at UFRPE**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Databricks**
 
 - 💬 Ask me about **Kotlin, React and Django**
 
 - 📫 How to reach me **arthurmsantos2002@gmail.com**
 
-- 📖 Reading The Drunkard's Walk: How Randomness Rules Our Lives**
+- 📖 Reading The Drunkard's Walk: How Randomness Rules Our Lives **
 
 -------
 
