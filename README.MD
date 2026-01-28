@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arthurmsantos2002@gmail.com**
 
-- ⚡ Fun fact **Big Fan of Hollow Knight \[T]/**
+- 📖 Reading The Drunkard's Walk: How Randomness Rules Our Lives**
 
 -------
 
