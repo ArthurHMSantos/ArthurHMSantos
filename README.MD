@@ -4,7 +4,7 @@
 # Hey! I'm, Arthur Henrique 👋
 
 - 💻 Data Engineer @ [Avanade](https://www.avanade.com/pt-br/)
-- 🎓 BSc - information Systems Graduate @ [UFRPE](hhttps://www.ufrpe.br/)
+- 🎓 BSi - information Systems Graduate @ [UFRPE](hhttps://www.ufrpe.br/)
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Databricks, Spark and TensorFlow**
 - 📖 Reading The Drunkard's Walk: How Randomness Rules Our Lives
